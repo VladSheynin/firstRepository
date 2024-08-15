@@ -1,1 +1,2 @@
 second message!
+clear message
